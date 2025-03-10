@@ -1,0 +1,48 @@
+﻿@page "/organizacoes"
+@inject HttpClient Http
+
+<h3>Organizações</h3>
+
+@if (organizacoes == null)
+{
+    <p>Carregando...</p>
+}
+else
+{
+    <ul>
+        @foreach (var org in organizacoes)
+        {
+            <li>@org.Nome - @org.Descricao</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Organizacao>? organizacoes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var request = new HttpRequestMessage(HttpMethod.Get, "https://xhogvxlxebfrllnaxxsb.supabase.co/rest/v1/organizacoes");
+
+        request.Headers.Add("apikey", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhob2d2eGx4ZWJmcmxsbmF4eHNiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE0ODE3NzIsImV4cCI6MjA1NzA1Nzc3Mn0.66a9RK82w28279Z7tikuyeplVEl9SprYB6aXqMobuDI");
+        request.Headers.Add("Authorization", "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhob2d2eGx4ZWJmcmxsbmF4eHNiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE0ODE3NzIsImV4cCI6MjA1NzA1Nzc3Mn0.66a9RK82w28279Z7tikuyeplVEl9SprYB6aXqMobuDI");
+
+        var response = await Http.SendAsync(request);
+
+        if (response.IsSuccessStatusCode)
+        {
+            organizacoes = await response.Content.ReadFromJsonAsync<List<Organizacao>>();
+        }
+        else
+        {
+            Console.WriteLine($"Erro: {response.StatusCode}");
+        }
+    }
+
+    public class Organizacao
+    {
+        public string Id { get; set; }
+        public string Nome { get; set; }
+        public string Descricao { get; set; }
+    }
+}

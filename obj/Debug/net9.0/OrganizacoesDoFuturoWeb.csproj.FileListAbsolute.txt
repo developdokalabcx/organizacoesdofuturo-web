@@ -38,8 +38,6 @@ C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\Microsoft.
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
-C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.00g8624lg7.pdb
-C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.csp18v4dep.wasm
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.tlm3i6pt76.wasm
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.jadgrn67lq.wasm
@@ -334,7 +332,6 @@ C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.IO.IsolatedStorage.86d2nxz30o.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
-C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.csp18v4dep.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Security.fl5q9pzcow.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Linq.982cs7cwl7.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.js.map.gz
@@ -388,7 +385,6 @@ C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Tra
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Primitives.b2osjpgeyo.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Net.uvxuq9ftj8.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.ropftsemtf.wasm.gz
-C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.00g8624lg7.pdb.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.tt0muuqqmn.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Net.NameResolution.ojvc5fs9x8.wasm.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Process.nbu219jctg.wasm.gz
@@ -1064,9 +1060,6 @@ C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\opmhws1xns-tyz1a4w
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\h6j08a8kpk-tjcz0u77k5.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\nvgvrw2b3x-tptq2av103.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\zrk7s1x88i-lfu7j35m59.gz
-C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\nvll39chzg-csp18v4dep.gz
-C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\xkq1kc6np4-00g8624lg7.gz
-C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\mozaw9a6t1-ug0lodr5r6.gz
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\staticwebassets.build.json
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\staticwebassets.development.json
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1081,3 +1074,11 @@ C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\OrganizacoesDoFuturoWeb.dll
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\refint\OrganizacoesDoFuturoWeb.dll
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\OrganizacoesDoFuturoWeb.pdb
 C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\ref\OrganizacoesDoFuturoWeb.dll
+C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\OrganizacoesDoFuturoWeb.sourcelink.json
+C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.xvrku53puo.pdb
+C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.pxh9lm0rgh.wasm
+C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.pxh9lm0rgh.wasm.gz
+C:\Blazor\OrganizacoesDoFuturoWeb\bin\Debug\net9.0\wwwroot\_framework\OrganizacoesDoFuturoWeb.xvrku53puo.pdb.gz
+C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\nvll39chzg-pxh9lm0rgh.gz
+C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\xkq1kc6np4-xvrku53puo.gz
+C:\Blazor\OrganizacoesDoFuturoWeb\obj\Debug\net9.0\compressed\mozaw9a6t1-lnpvz01z5c.gz

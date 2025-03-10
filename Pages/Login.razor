@@ -1,0 +1,26 @@
+﻿@page "/login"
+@inject NavigationManager Navigation
+
+<h3>Login</h3>
+
+<input @bind="email" placeholder="E-mail" />
+<input @bind="senha" type="password" placeholder="Senha" />
+<button @onclick="FazerLogin">Entrar</button>
+
+@code {
+    private string email;
+    private string senha;
+
+    private void FazerLogin()
+    {
+        // Simulação de login (posteriormente será integrado ao Supabase)
+        if (email == "admin@organizacoesdofuturo.app" && senha == "123456")
+        {
+            Navigation.NavigateTo("/dashboard");
+        }
+        else
+        {
+            Console.WriteLine("Login inválido!");
+        }
+    }
+}

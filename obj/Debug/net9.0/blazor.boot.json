@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "OrganizacoesDoFuturoWeb",
   "resources": {
-    "hash": "sha256-xJXY+r81rrvnHzy93ncAIcAGRUab+6JChjy+SqSMANw=",
+    "hash": "sha256-K0sQaWRtGYYsso/kcaYN9mr4nGZZpZdF/PVeQeCaSGQ=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "OrganizacoesDoFuturoWeb.csp18v4dep.wasm": "OrganizacoesDoFuturoWeb.wasm",
-      "OrganizacoesDoFuturoWeb.00g8624lg7.pdb": "OrganizacoesDoFuturoWeb.pdb"
+      "OrganizacoesDoFuturoWeb.pxh9lm0rgh.wasm": "OrganizacoesDoFuturoWeb.wasm",
+      "OrganizacoesDoFuturoWeb.xvrku53puo.pdb": "OrganizacoesDoFuturoWeb.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -412,10 +412,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "OrganizacoesDoFuturoWeb.csp18v4dep.wasm": "sha256-NGPAz0y+v4XQyW7V1EMj4hIIpra5LEEoCGnAHUmCC5o="
+      "OrganizacoesDoFuturoWeb.pxh9lm0rgh.wasm": "sha256-8y/wNhd9uLnDnZiGbt/o4gPze8bIub3vDwFQkfnEAnE="
     },
     "pdb": {
-      "OrganizacoesDoFuturoWeb.00g8624lg7.pdb": "sha256-AG9XUgO3/svLeNf8a/Fnk5FPAH/sHWvtRfTRAgyDUSs="
+      "OrganizacoesDoFuturoWeb.xvrku53puo.pdb": "sha256-07PbyPXT3/a1yhUStCLRKeM21zGMVU35DqN+pR4DWk4="
     }
   },
   "cacheBootResources": true,

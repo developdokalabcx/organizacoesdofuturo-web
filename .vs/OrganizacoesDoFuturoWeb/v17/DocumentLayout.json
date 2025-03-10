@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Blazor\\OrganizacoesDoFuturoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83A2CEE-4266-444C-A50A-AB933A495D9A}|OrganizacoesDoFuturoWeb.csproj|c:\\blazor\\organizacoesdofuturoweb\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83A2CEE-4266-444C-A50A-AB933A495D9A}|OrganizacoesDoFuturoWeb.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83A2CEE-4266-444C-A50A-AB933A495D9A}|OrganizacoesDoFuturoWeb.csproj|c:\\blazor\\organizacoesdofuturoweb\\pages\\organizacoes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83A2CEE-4266-444C-A50A-AB933A495D9A}|OrganizacoesDoFuturoWeb.csproj|solutionrelative:pages\\organizacoes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organizacoes.razor",
+              "DocumentMoniker": "C:\\Blazor\\OrganizacoesDoFuturoWeb\\Pages\\Organizacoes.razor",
+              "RelativeDocumentMoniker": "Pages\\Organizacoes.razor",
+              "ToolTip": "C:\\Blazor\\OrganizacoesDoFuturoWeb\\Pages\\Organizacoes.razor",
+              "RelativeToolTip": "Pages\\Organizacoes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:55:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Blazor\\OrganizacoesDoFuturoWeb\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Pages\\Login.razor",
+              "ToolTip": "C:\\Blazor\\OrganizacoesDoFuturoWeb\\Pages\\Login.razor",
+              "RelativeToolTip": "Pages\\Login.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:49:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
